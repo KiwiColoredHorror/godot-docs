@@ -333,7 +333,7 @@ If the matrix is orthonormal, then:
 
     # if m is orthonormal, then
     pos = mi.xform(pos)
-    # is the same is
+    # is the same as
     pos = m.xform_inv(pos)
 
 Matrix multiplication
